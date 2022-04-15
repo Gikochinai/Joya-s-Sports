@@ -17,6 +17,7 @@ body{
 .Main-menu{
   text-align: right;
   background-color: black;
+  width: auto;
 }
 
 .Main-menu ul{
