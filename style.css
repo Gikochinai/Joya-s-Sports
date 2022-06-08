@@ -427,7 +427,7 @@ body{
 }
 
 .mobile-app-div{
-  height: 900px;
+  height: 1400px;
   width: 100%;
   background-color: black;
   /* margin-bottom: 20px; */
@@ -556,4 +556,18 @@ body{
 
 .mission-vision h4{
   font-size: 30px;
+}
+
+.Teaser_Vid video{
+ min-width: 1300px;
+ height: 500px;
+}
+.Teaser_Vid{
+  margin-top: 120px;
+  background-color: #ea7300;
+  border-radius: 20px;
+  height: 500px;
+  width: 1300px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
