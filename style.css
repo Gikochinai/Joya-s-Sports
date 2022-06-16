@@ -567,3 +567,33 @@ body{
   margin-left: 10px;
   margin-right: 10px;
 }
+footer{
+  /* margin-right: 20px;
+  margin-left: 100px; */
+  margin-top: 100px;
+  height: 200px;
+  min-width: 100%;
+  background-color: black;
+}
+
+footer p{
+  padding: 10px;
+  margin:10px;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}
+
+footer .facebook_logo img{
+  height: 100px;
+  min-width: 100px;
+}
+
+  .facebook_logo{
+   border-radius: 20px;
+   margin-top: 10px;
+   margin-left: 690px;
+   height: 100px;
+   width: 100px;
+   background-color: #ea7300;
+}
